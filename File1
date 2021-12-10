@@ -1,1 +1,2 @@
-Content
+git checkout -b style
+git status
